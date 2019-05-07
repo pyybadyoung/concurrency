@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef622ef3-d42c-4507-9acd-c870d55275f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/badyoung/concurent2/chapter9/ClientThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/badyoung/concurent2/chapter9/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/badyoung/concurent2/chapter9/RequestQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/badyoung/concurent2/chapter8/SyncInvoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/badyoung/concurent2/chapter8/SyncInvoker.java" afterDir="false" />
+    <list default="true" id="ef622ef3-d42c-4507-9acd-c870d55275f2" name="Default Changelist" comment="ni niu">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,13 +49,14 @@
         <counts>
           <entry key="dummy" value="2" />
           <entry key="java" value="11993" />
+          <entry key="txt" value="12" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="11993" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="PLAIN_TEXT" value="14" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -351,7 +349,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557220423858" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557220597391" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -500,8 +498,23 @@
       <workItem from="1556926985028" duration="12371000" />
       <workItem from="1557019262980" duration="19206000" />
       <workItem from="1557106206387" duration="22715000" />
-      <workItem from="1557192734261" duration="16810000" />
+      <workItem from="1557192734261" duration="17068000" />
     </task>
+    <task id="LOCAL-00001" summary="ni niu">
+      <created>1557220415497</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557220415497</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ni niu">
+      <created>1557220493629</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557220493629</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -537,10 +550,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122397000" />
+    <option name="totallyTimeSpent" value="122655000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1233" height="735" extended-state="6" />
+    <frame x="-7" y="-7" width="1233" height="735" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25512716" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -577,6 +590,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ni niu" />
+    <option name="LAST_COMMIT_MESSAGE" value="ni niu" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/badyoung/concurrency1/chapter10/Lock.java">
